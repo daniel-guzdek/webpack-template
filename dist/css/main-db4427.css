@@ -1,0 +1,14 @@
+*{margin:0;padding:0;box-sizing:border-box}.wrapper{display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%;height:100vh}.wrapper .main-title{display:block;margin-bottom:50px;font-family:sans-serif}.wrapper .image-container{width:100px;height:100px}.wrapper .image-container img{width:100%}
+.second-block {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+}
+
+.root {
+  background-color: cadetblue;
+}
+
+.element-color {
+  background-color: blue;
+}

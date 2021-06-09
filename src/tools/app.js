@@ -1,0 +1,1 @@
+export const appFunction = () => console.log('The code from the app.js file has been displayed.');
